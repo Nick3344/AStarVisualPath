@@ -1,5 +1,3 @@
-Certainly! Here's a project description for the GitHub README.md file:
-
 ---
 
 # A* Path Finding Visual Tool
